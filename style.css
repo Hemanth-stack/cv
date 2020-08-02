@@ -1,0 +1,27 @@
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color:snow;
+    border-width: 4px;
+    width: 5%;
+}
+body{
+    background-color:#222831;
+}
+img{
+    border-radius: 50%;
+    background-color: ;
+}
+h1,h3{
+    color:#00adb5;
+}
+td,ul,th,label,p,a{
+    font-family: 'Times New Roman', Times, serif;
+    color:#eeeeee ;
+}
+img:hover{
+    color:black;
+}
+input{
+
+}
