@@ -10,8 +10,8 @@ body{
 }
 img{
     border-radius: 50%;
-    max-width: 25px;
-    max-height: 25px;
+    max-width: 200px;
+    max-height: 200px;
 }
 h1,h3{
     color:#00adb5;
